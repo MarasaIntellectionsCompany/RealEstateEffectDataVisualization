@@ -29,7 +29,7 @@ const isAuthRoute = computed(() => route.name === 'login')
           <button
             type="button"
             class="theme-toggle-btn"
-            :class="{ active: selectedTheme === 'dark' }"
+            :class="{ active: selectedTheme === 'light' }"
             @click="selectedTheme = 'dark'"
           >
             Dark

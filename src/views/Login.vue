@@ -50,7 +50,12 @@ const handleSubmit = async () => {
       return
     }
 
-    // Redirect to requested page or to /transactions by default
+    // 1) Mark user as logged in for the router guard
+    // If your backend returns a token, use that instead of 'session'
+    // example: const token = data.token
+    localStorage.setItem('auth_token', 'session')
+
+    // 2) Redirect to requested page or to /transactions by default
     const redirectParam = route.query.redirect
     const redirectTo =
       typeof redirectParam === 'string' && redirectParam
