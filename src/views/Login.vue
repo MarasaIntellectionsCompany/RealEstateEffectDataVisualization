@@ -50,8 +50,13 @@ const handleSubmit = async () => {
       return
     }
 
-    // On success, let the router guard recheck /check_session
-    const redirectTo = route.query.redirect || '/portfolio'
+    // Redirect to requested page or to /transactions by default
+    const redirectParam = route.query.redirect
+    const redirectTo =
+      typeof redirectParam === 'string' && redirectParam
+        ? redirectParam
+        : '/transactions'
+
     await router.replace(redirectTo)
   } catch (e) {
     error.value = 'There was a problem contacting the server.'
@@ -68,23 +73,18 @@ const handleSubmit = async () => {
         <div class="login-brand">
           <img
             :src="headerLogo"
-            alt="Groupe MACH logo"
+            alt="Alfapoly logo"
             class="login-logo"
           />
           <div class="login-brand-text">
-            <p class="eyebrow">Groupe MACH</p>
-            <h1 class="login-title">Financing manager</h1>
-            <!-- <h1 class="login-title">Portfolio financing manager</h1> -->
+            <p class="eyebrow">Alfapoly</p>
+            <h1 class="login-title">Real Estate Effect</h1>
           </div>
         </div>
-        <!-- <p class="login-subtitle">
-          Sign in to access your portfolio workspace.
-        </p> -->
       </header>
 
       <form class="login-form" @submit.prevent="handleSubmit">
         <div class="field-input">
-          <!-- <span>Email</span> -->
           <div class="input-wrapper">
             <Icon icon="mdi:email-outline" class="input-icon" />
             <input
@@ -98,7 +98,6 @@ const handleSubmit = async () => {
         </div>
 
         <div class="field-input">
-          <!-- <span>Password</span> -->
           <div class="input-wrapper">
             <Icon icon="mdi:lock-outline" class="input-icon" />
             <input
@@ -124,10 +123,6 @@ const handleSubmit = async () => {
           <span v-else>Signing in...</span>
         </button>
       </form>
-
-      <!-- <p class="login-footer-note">
-        Session cookies are used to keep you signed in across visits.
-      </p> -->
     </div>
   </div>
 </template>
@@ -192,12 +187,6 @@ const handleSubmit = async () => {
   font-weight: 600;
 }
 
-.login-subtitle {
-  margin: 4px 0 0;
-  font-size: 0.9rem;
-  color: var(--secondary-text);
-}
-
 .login-form {
   display: flex;
   flex-direction: column;
@@ -209,13 +198,6 @@ const handleSubmit = async () => {
   display: flex;
   flex-direction: column;
   gap: 4px;
-}
-
-.field-input span {
-  text-transform: uppercase;
-  font-size: 0.7rem;
-  letter-spacing: 0.06em;
-  color: var(--secondary-text);
 }
 
 .input-wrapper {
@@ -283,13 +265,6 @@ const handleSubmit = async () => {
 .login-submit {
   margin-top: 6px;
   width: 100%;
-}
-
-.login-footer-note {
-  margin: 14px 0 0;
-  font-size: 0.8rem;
-  color: var(--secondary-text);
-  text-align: left;
 }
 
 .thin-border {
