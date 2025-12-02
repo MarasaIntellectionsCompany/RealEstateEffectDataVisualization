@@ -31,7 +31,7 @@ const handleSubmit = async () => {
 
   loading.value = true
   try {
-    const res = await fetch(`${API_BASE}/api/auth/login`, {
+    const res = await fetch(`api.alfapoly.com/api/auth/login`, {
       method: 'POST',
       credentials: 'include',
       headers: {
