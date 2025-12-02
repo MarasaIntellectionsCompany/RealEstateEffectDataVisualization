@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+
+:root {
+  /* sensible dark defaults, JS will override */
+  --primary-bg: #333333;
+  --secondary-bg: #333333;
+  --tertiary-bg: #404040;
+  --panel-bg: #333333;
+  --primary-text: #dbd8d3;
+  --secondary-text: #9e9c9c;
+  --hover-bg: #cbba9f;
+  --hover-text: #333333;
+  --accent-color: #cbba9f;
+  --accent-bg: #cbba9f;
+  --box-text-unit: #333333;
+  --border-color: #dbd8d3;
+  --border-color-light: rgba(219, 216, 211, 0.3);
+  --border-color-medium: rgba(219, 216, 211, 0.5);
+  --table-lines: #404040;
+  --shadow-color-light: rgba(0, 0, 0, 0.1);
+  --shadow-color-medium: rgba(0, 0, 0, 0.2);
+  --shadow-color-strong: rgba(0, 0, 0, 0.3);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+}
+
+body {
+  font-family: 'Montserrat';
+  background-color: var(--primary-bg);
+  color: var(--primary-text);
+}
+
+/* selection and scrollbar for the Alfapoly look */
+::selection {
+  background: var(--primary-text);
+  color: var(--primary-bg);
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--primary-text);
+  border-radius: 6px;
+}

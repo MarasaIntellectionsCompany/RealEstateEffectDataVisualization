@@ -1,0 +1,2844 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60327337204114,
+          45.491030091895716
+        ]
+      },
+      "properties": {
+        "address": "12 Avenue Sunnyside",
+        "price": 18500000,
+        "date": "2021-11",
+        "units": 1,
+        "quarter": "2021Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61603934376647,
+          45.489893059397026
+        ]
+      },
+      "properties": {
+        "address": "28 Avenue Devon",
+        "price": 8000000,
+        "date": "2021-10",
+        "units": 1,
+        "quarter": "2021Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61295275204637,
+          45.488366484151584
+        ]
+      },
+      "properties": {
+        "address": "753 Avenue Lexington",
+        "price": 5125000,
+        "date": "2021-11",
+        "units": 1,
+        "quarter": "2021Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60906307903947,
+          45.512836838183375
+        ]
+      },
+      "properties": {
+        "address": "55 avenue Courcelette",
+        "price": 4750000,
+        "date": "2021-11",
+        "units": 1,
+        "quarter": "2021Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.80352281558889,
+          45.43496312934161
+        ]
+      },
+      "properties": {
+        "address": "27 Avenue Claremont",
+        "price": 4576500,
+        "date": "2021-11",
+        "units": 1,
+        "quarter": "2021Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59432640841399,
+          45.488635215058636
+        ]
+      },
+      "properties": {
+        "address": "41 Avenue Rosemount",
+        "price": 4261796,
+        "date": "2021-10",
+        "units": 1,
+        "quarter": "2021Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61187127513185,
+          45.5127888764116
+        ]
+      },
+      "properties": {
+        "address": "22 Avenue Claude Champagne",
+        "price": 4250000,
+        "date": "2021-12",
+        "units": 2,
+        "quarter": "2021Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5870718235727,
+          45.48811022027823
+        ]
+      },
+      "properties": {
+        "address": "1 Avenue Wood # 2104",
+        "price": 4000000,
+        "date": "2021-11",
+        "units": 1,
+        "quarter": "2021Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60581855360218,
+          45.49068586683779
+        ]
+      },
+      "properties": {
+        "address": "54 Circle Summit",
+        "price": 3700000,
+        "date": "2021-12",
+        "units": 1,
+        "quarter": "2021Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60483543875965,
+          45.51207112899429
+        ]
+      },
+      "properties": {
+        "address": "153 Avenue Pagnuelo",
+        "price": 3662500,
+        "date": "2021-12",
+        "units": 1,
+        "quarter": "2021Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57796662691538,
+          45.499859775528186
+        ]
+      },
+      "properties": {
+        "address": "1280 Rue Sherbrooke # 1130",
+        "price": 10000000,
+        "date": "2022-03",
+        "units": 1,
+        "quarter": "2022Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54160980218548,
+          45.556747353224864
+        ]
+      },
+      "properties": {
+        "address": "2101 Avenue Aird",
+        "price": 7350000,
+        "date": "2022-03",
+        "units": 1,
+        "quarter": "2022Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6139096265933,
+          45.48692583077501
+        ]
+      },
+      "properties": {
+        "address": "94 Avenue Sunnyside",
+        "price": 7300000,
+        "date": "2022-02",
+        "units": 1,
+        "quarter": "2022Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59550995572904,
+          45.48493607027766
+        ]
+      },
+      "properties": {
+        "address": "368 Redfern Avenue",
+        "price": 6895000,
+        "date": "2022-02",
+        "units": 1,
+        "quarter": "2022Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5998453565568,
+          45.491501270559674
+        ]
+      },
+      "properties": {
+        "address": "3207 The Boulevard",
+        "price": 5800000,
+        "date": "2022-01",
+        "units": 1,
+        "quarter": "2022Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59598000862921,
+          45.483045972406835
+        ]
+      },
+      "properties": {
+        "address": "344 Avenue Metcalfe",
+        "price": 5200000,
+        "date": "2022-02",
+        "units": 1,
+        "quarter": "2022Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.63907531964377,
+          45.52095243784203
+        ]
+      },
+      "properties": {
+        "address": "40 Croissant Roselawn",
+        "price": 5100000,
+        "date": "2022-01",
+        "units": 1,
+        "quarter": "2022Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58937213197127,
+          45.48650662054141
+        ]
+      },
+      "properties": {
+        "address": "1250 Avenue Greene # 501",
+        "price": 4850000,
+        "date": "2022-01",
+        "units": 1,
+        "quarter": "2022Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61536149865101,
+          45.51364788111464
+        ]
+      },
+      "properties": {
+        "address": "660 Avenue Hartland",
+        "price": 4210000,
+        "date": "2022-01",
+        "units": 1,
+        "quarter": "2022Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.561168062,
+          45.518909105
+        ]
+      },
+      "properties": {
+        "address": "1750 Rue Atateken",
+        "price": 4100000,
+        "date": "2022-03",
+        "units": 3,
+        "quarter": "2022Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.73204843626613,
+          45.437643390472616
+        ]
+      },
+      "properties": {
+        "address": "12 Avenue Dahlia",
+        "price": 8000000,
+        "date": "2022-06",
+        "units": 1,
+        "quarter": "2022Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.563582306,
+          45.502403338
+        ]
+      },
+      "properties": {
+        "address": "495 Avenue Viger",
+        "price": 7903000,
+        "date": "2022-06",
+        "units": 1,
+        "quarter": "2022Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60140454687959,
+          45.490572937166
+        ]
+      },
+      "properties": {
+        "address": "10 Braeside Place",
+        "price": 7400000,
+        "date": "2022-06",
+        "units": 1,
+        "quarter": "2022Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61336691442233,
+          45.49061572176198
+        ]
+      },
+      "properties": {
+        "address": "30 Surrey Gardens",
+        "price": 6000000,
+        "date": "2022-06",
+        "units": 1,
+        "quarter": "2022Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86742500104324,
+          45.42172840717727
+        ]
+      },
+      "properties": {
+        "address": "12 Place Harrow",
+        "price": 5810805,
+        "date": "2022-06",
+        "units": 1,
+        "quarter": "2022Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60392993456969,
+          45.48640449577902
+        ]
+      },
+      "properties": {
+        "address": "66 Crescent Forden",
+        "price": 4900000,
+        "date": "2022-04",
+        "units": 1,
+        "quarter": "2022Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96744693355147,
+          45.436525252109305
+        ]
+      },
+      "properties": {
+        "address": "227 Chemin de Senneville",
+        "price": 3988000,
+        "date": "2022-04",
+        "units": 1,
+        "quarter": "2022Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6185764967235,
+          45.51274680972906
+        ]
+      },
+      "properties": {
+        "address": "6065 Avenue de Vimy",
+        "price": 3850000,
+        "date": "2022-04",
+        "units": 1,
+        "quarter": "2022Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58126688000195,
+          45.49929961698693
+        ]
+      },
+      "properties": {
+        "address": "3440 Avenue du Musée",
+        "price": 3600000,
+        "date": "2022-06",
+        "units": 4,
+        "quarter": "2022Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55341413285521,
+          45.45809449965499
+        ]
+      },
+      "properties": {
+        "address": "18 Rue des Huards",
+        "price": 3575000,
+        "date": "2022-04",
+        "units": 1,
+        "quarter": "2022Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94817183162161,
+          45.44934454939241
+        ]
+      },
+      "properties": {
+        "address": "330 Chemin de Senneville",
+        "price": 9300000,
+        "date": "2022-08",
+        "units": 2,
+        "quarter": "2022Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56652166543806,
+          45.5113729075964
+        ]
+      },
+      "properties": {
+        "address": "1635 Boulevard Saint Laurent",
+        "price": 7600000,
+        "date": "2022-07",
+        "units": 2,
+        "quarter": "2022Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60946165573492,
+          45.489062778909926
+        ]
+      },
+      "properties": {
+        "address": "57 Avenue Sunnyside",
+        "price": 7379000,
+        "date": "2022-09",
+        "units": 1,
+        "quarter": "2022Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.72077727916145,
+          45.50875247438526
+        ]
+      },
+      "properties": {
+        "address": "4060 Rue Claude Henri Grignon",
+        "price": 5800000,
+        "date": "2022-09",
+        "units": 1,
+        "quarter": "2022Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59563446119189,
+          45.48289330768314
+        ]
+      },
+      "properties": {
+        "address": "336 Avenue Metcalfe",
+        "price": 5282500,
+        "date": "2022-09",
+        "units": 1,
+        "quarter": "2022Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60003886759372,
+          45.48513011491889
+        ]
+      },
+      "properties": {
+        "address": "3 avenue Forden",
+        "price": 5100000,
+        "date": "2022-09",
+        "units": 1,
+        "quarter": "2022Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6785936786984,
+          45.556967256654346
+        ]
+      },
+      "properties": {
+        "address": "175 Rue Sommerville",
+        "price": 4700000,
+        "date": "2022-09",
+        "units": 1,
+        "quarter": "2022Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.64329570184984,
+          45.48229456863493
+        ]
+      },
+      "properties": {
+        "address": "16 Rue Lyncroft",
+        "price": 4450000,
+        "date": "2022-09",
+        "units": 1,
+        "quarter": "2022Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60299425821165,
+          45.51160064781653
+        ]
+      },
+      "properties": {
+        "address": "1316 Boulevard du Mont Royal",
+        "price": 4400000,
+        "date": "2022-09",
+        "units": 1,
+        "quarter": "2022Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60700868298397,
+          45.51107524135669
+        ]
+      },
+      "properties": {
+        "address": "1420 boulevard Mont Royal # 763",
+        "price": 4349814,
+        "date": "2022-08",
+        "units": 1,
+        "quarter": "2022Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.645096320305,
+          45.48110434695197
+        ]
+      },
+      "properties": {
+        "address": "57 Rue Hampstead",
+        "price": 8275000,
+        "date": "2022-11",
+        "units": 1,
+        "quarter": "2022Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59460077730193,
+          45.492018478885434
+        ]
+      },
+      "properties": {
+        "address": "29 Avenue de Ramezay",
+        "price": 7250000,
+        "date": "2022-11",
+        "units": 1,
+        "quarter": "2022Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58120092102018,
+          45.4973764009032
+        ]
+      },
+      "properties": {
+        "address": "1485 Rue Sherbrooke",
+        "price": 7000000,
+        "date": "2022-10",
+        "units": 1,
+        "quarter": "2022Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59646527979551,
+          45.48992036999536
+        ]
+      },
+      "properties": {
+        "address": "4294 Avenue Montrose",
+        "price": 6200000,
+        "date": "2022-10",
+        "units": 2,
+        "quarter": "2022Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61076690856285,
+          45.51362703366149
+        ]
+      },
+      "properties": {
+        "address": "7 Avenue Courcelette",
+        "price": 5315000,
+        "date": "2022-12",
+        "units": 1,
+        "quarter": "2022Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60235508254503,
+          45.49255182913141
+        ]
+      },
+      "properties": {
+        "address": "50 Place Belvédère",
+        "price": 5300000,
+        "date": "2022-11",
+        "units": 1,
+        "quarter": "2022Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60700868298397,
+          45.51107524135669
+        ]
+      },
+      "properties": {
+        "address": "1420 Boulevard du Mont Royal # 715",
+        "price": 5151364,
+        "date": "2022-12",
+        "units": 1,
+        "quarter": "2022Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.642364164,
+          45.510538005
+        ]
+      },
+      "properties": {
+        "address": "991 Chemin Dunsmuir",
+        "price": 4500000,
+        "date": "2022-12",
+        "units": 1,
+        "quarter": "2022Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92014737200084,
+          45.406140965443996
+        ]
+      },
+      "properties": {
+        "address": "20562 Chemin Lakeshore",
+        "price": 4490000,
+        "date": "2022-11",
+        "units": 1,
+        "quarter": "2022Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.599651749,
+          45.513074005
+        ]
+      },
+      "properties": {
+        "address": "1215 Boulevard du Mont Royal",
+        "price": 4400000,
+        "date": "2022-12",
+        "units": 1,
+        "quarter": "2022Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6008444576814,
+          45.48490443792213
+        ]
+      },
+      "properties": {
+        "address": "8 Avenue Forden",
+        "price": 8000000,
+        "date": "2023-03",
+        "units": 1,
+        "quarter": "2023Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87938691652565,
+          45.416227076959466
+        ]
+      },
+      "properties": {
+        "address": "462 Road Lakeshore",
+        "price": 6350000,
+        "date": "2023-01",
+        "units": 1,
+        "quarter": "2023Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.570745937,
+          45.496280576
+        ]
+      },
+      "properties": {
+        "address": "1050 Rue Drummond # 4801",
+        "price": 4800000,
+        "date": "2023-01",
+        "units": 1,
+        "quarter": "2023Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61403409338773,
+          45.49160483245671
+        ]
+      },
+      "properties": {
+        "address": "43 Surrey Gardens",
+        "price": 4288700,
+        "date": "2023-02",
+        "units": 1,
+        "quarter": "2023Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60327019138053,
+          45.489347380168134
+        ]
+      },
+      "properties": {
+        "address": "3641 The Boulevard",
+        "price": 4100000,
+        "date": "2023-02",
+        "units": 1,
+        "quarter": "2023Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59453549561371,
+          45.49134371333941
+        ]
+      },
+      "properties": {
+        "address": "14 Avenue de Ramezay",
+        "price": 4000000,
+        "date": "2023-03",
+        "units": 1,
+        "quarter": "2023Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60940958583173,
+          45.48852296153805
+        ]
+      },
+      "properties": {
+        "address": "60 Avenue Sunnyside",
+        "price": 3842000,
+        "date": "2023-02",
+        "units": 1,
+        "quarter": "2023Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.64778331506554,
+          45.47652076955903
+        ]
+      },
+      "properties": {
+        "address": "18 Rue Gayton",
+        "price": 3675000,
+        "date": "2023-03",
+        "units": 1,
+        "quarter": "2023Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60700868298397,
+          45.51107524135669
+        ]
+      },
+      "properties": {
+        "address": "1420 Boulevard du Mont Royal # 608",
+        "price": 3206715,
+        "date": "2023-02",
+        "units": 1,
+        "quarter": "2023Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89871702309928,
+          45.41240879785958
+        ]
+      },
+      "properties": {
+        "address": "20036 Place Wilson",
+        "price": 3200000,
+        "date": "2023-01",
+        "units": 1,
+        "quarter": "2023Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.607215991,
+          45.510995674
+        ]
+      },
+      "properties": {
+        "address": "1420 boulevard Mont Royal # 915",
+        "price": 10775947,
+        "date": "2023-05",
+        "units": 1,
+        "quarter": "2023Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59790551770834,
+          45.4942744428156
+        ]
+      },
+      "properties": {
+        "address": "3058 Avenue de Trafalgar",
+        "price": 5600000,
+        "date": "2023-06",
+        "units": 1,
+        "quarter": "2023Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59366952632533,
+          45.51489326373829
+        ]
+      },
+      "properties": {
+        "address": "1091 Boulevard du Mont Royal",
+        "price": 5425000,
+        "date": "2023-06",
+        "units": 1,
+        "quarter": "2023Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60557154787148,
+          45.481624676691915
+        ]
+      },
+      "properties": {
+        "address": "516 Avenue Roslyn",
+        "price": 4000000,
+        "date": "2023-04",
+        "units": 1,
+        "quarter": "2023Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.749004199,
+          45.436318716
+        ]
+      },
+      "properties": {
+        "address": "2 Place Kathleen Laing",
+        "price": 3970581,
+        "date": "2023-06",
+        "units": 1,
+        "quarter": "2023Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61020359968825,
+          45.4823943070884
+        ]
+      },
+      "properties": {
+        "address": "599 Avenue Victoria",
+        "price": 3600000,
+        "date": "2023-05",
+        "units": 1,
+        "quarter": "2023Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6021970222151,
+          45.516667483034404
+        ]
+      },
+      "properties": {
+        "address": "250 Avenue McDougall",
+        "price": 3360000,
+        "date": "2023-06",
+        "units": 1,
+        "quarter": "2023Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60510841046994,
+          45.487186255794136
+        ]
+      },
+      "properties": {
+        "address": "618 Avenue Sydenham",
+        "price": 3305000,
+        "date": "2023-04",
+        "units": 1,
+        "quarter": "2023Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60568969495229,
+          45.5156924713208
+        ]
+      },
+      "properties": {
+        "address": "393 395 Chemin de la Côte Sainte Catherine",
+        "price": 3185000,
+        "date": "2023-05",
+        "units": 3,
+        "quarter": "2023Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.559590558,
+          45.493246144
+        ]
+      },
+      "properties": {
+        "address": "242 Rue Young",
+        "price": 2950000,
+        "date": "2023-06",
+        "units": 1,
+        "quarter": "2023Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61012870710204,
+          45.48984508144138
+        ]
+      },
+      "properties": {
+        "address": "90 Circle Summit",
+        "price": 12000000,
+        "date": "2023-09",
+        "units": 1,
+        "quarter": "2023Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57075747205907,
+          45.479969405552644
+        ]
+      },
+      "properties": {
+        "address": "2560 Rue Saint Patrick",
+        "price": 10000000,
+        "date": "2023-07",
+        "units": 1,
+        "quarter": "2023Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.645096320305,
+          45.48110434695197
+        ]
+      },
+      "properties": {
+        "address": "57 Rue Hampstead",
+        "price": 8000000,
+        "date": "2023-07",
+        "units": 1,
+        "quarter": "2023Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58564596359253,
+          45.50108705729552
+        ]
+      },
+      "properties": {
+        "address": "1444 Crescent Redpath",
+        "price": 7000000,
+        "date": "2023-08",
+        "units": 1,
+        "quarter": "2023Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57633921527848,
+          45.49820511330581
+        ]
+      },
+      "properties": {
+        "address": "1430 Rue de la Montagne # 1501",
+        "price": 6650000,
+        "date": "2023-09",
+        "units": 1,
+        "quarter": "2023Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.73654083710205,
+          45.52095243784203
+        ]
+      },
+      "properties": {
+        "address": "12457 Avenue Joseph Édouard Samson",
+        "price": 5775000,
+        "date": "2023-08",
+        "units": 1,
+        "quarter": "2023Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59866118,
+          45.48822648
+        ]
+      },
+      "properties": {
+        "address": "4326 avenue Westmount",
+        "price": 5050000,
+        "date": "2023-07",
+        "units": 1,
+        "quarter": "2023Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57780333140452,
+          45.50219951771322
+        ]
+      },
+      "properties": {
+        "address": "3430 Rue Peel",
+        "price": 4940000,
+        "date": "2023-08",
+        "units": 1,
+        "quarter": "2023Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61327652338497,
+          45.51406551296827
+        ]
+      },
+      "properties": {
+        "address": "17 Avenue Ainslie",
+        "price": 4450000,
+        "date": "2023-07",
+        "units": 1,
+        "quarter": "2023Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57633921527848,
+          45.49820511330581
+        ]
+      },
+      "properties": {
+        "address": "1430 Rue de la Montagne # 1604",
+        "price": 9600412,
+        "date": "2023-10",
+        "units": 1,
+        "quarter": "2023Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60365303653194,
+          45.51482143861232
+        ]
+      },
+      "properties": {
+        "address": "69 Avenue Springgrove",
+        "price": 6250000,
+        "date": "2023-12",
+        "units": 1,
+        "quarter": "2023Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61500809257478,
+          45.49201973049339
+        ]
+      },
+      "properties": {
+        "address": "51 Surrey Gardens",
+        "price": 6100000,
+        "date": "2023-12",
+        "units": 1,
+        "quarter": "2023Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60833744803998,
+          45.48987366806463
+        ]
+      },
+      "properties": {
+        "address": "74 Circle Summit",
+        "price": 5775000,
+        "date": "2023-11",
+        "units": 1,
+        "quarter": "2023Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58975721748139,
+          45.527656104125604
+        ]
+      },
+      "properties": {
+        "address": "5152 Rue Rivard",
+        "price": 5610000,
+        "date": "2023-12",
+        "units": 8,
+        "quarter": "2023Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59855319276038,
+          45.49150241623577
+        ]
+      },
+      "properties": {
+        "address": "3186 The Boulevard",
+        "price": 5300000,
+        "date": "2023-10",
+        "units": 1,
+        "quarter": "2023Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.73212501362076,
+          45.509231028580984
+        ]
+      },
+      "properties": {
+        "address": "3670 des Outardes",
+        "price": 5226928,
+        "date": "2023-12",
+        "units": 1,
+        "quarter": "2023Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60601748699,
+          45.51308254411298
+        ]
+      },
+      "properties": {
+        "address": "195 Avenue Maplewood",
+        "price": 5195000,
+        "date": "2023-12",
+        "units": 1,
+        "quarter": "2023Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60317296669838,
+          45.49212816811571
+        ]
+      },
+      "properties": {
+        "address": "75 Place Belvedere",
+        "price": 4800000,
+        "date": "2023-11",
+        "units": 1,
+        "quarter": "2023Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.63956956738843,
+          45.51175544985304
+        ]
+      },
+      "properties": {
+        "address": "160 Croissant Geneva",
+        "price": 4500000,
+        "date": "2023-10",
+        "units": 1,
+        "quarter": "2023Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5870718235727,
+          45.48811022027823
+        ]
+      },
+      "properties": {
+        "address": "1 Wood Avenue",
+        "price": 5550000,
+        "date": "2024-03",
+        "units": 1,
+        "quarter": "2024Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.65345021304624,
+          45.51339188709973
+        ]
+      },
+      "properties": {
+        "address": "300 Chemin Strathcona",
+        "price": 5500000,
+        "date": "2024-03",
+        "units": 1,
+        "quarter": "2024Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60036204284457,
+          45.514032523163806
+        ]
+      },
+      "properties": {
+        "address": "51 Avenue McCulloch",
+        "price": 5500000,
+        "date": "2024-01",
+        "units": 2,
+        "quarter": "2024Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60404503938655,
+          45.48626927738585
+        ]
+      },
+      "properties": {
+        "address": "64 Crescent Forden",
+        "price": 4200000,
+        "date": "2024-03",
+        "units": 1,
+        "quarter": "2024Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6947699010485,
+          45.52095243784203
+        ]
+      },
+      "properties": {
+        "address": "1745 Rue Décarie",
+        "price": 3400000,
+        "date": "2024-03",
+        "units": 1,
+        "quarter": "2024Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56660380243987,
+          45.5108720182989
+        ]
+      },
+      "properties": {
+        "address": "1625 Rue Clark",
+        "price": 3250000,
+        "date": "2024-03",
+        "units": 1,
+        "quarter": "2024Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55140991043203,
+          45.451750865001316
+        ]
+      },
+      "properties": {
+        "address": "15 Rue de l' Orée du Bois",
+        "price": 3125000,
+        "date": "2024-03",
+        "units": 1,
+        "quarter": "2024Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56837953040429,
+          45.48235343267585
+        ]
+      },
+      "properties": {
+        "address": "2301 Rue Saint Patrick # S2",
+        "price": 3100000,
+        "date": "2024-03",
+        "units": 1,
+        "quarter": "2024Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5818791501459,
+          45.49792239015257
+        ]
+      },
+      "properties": {
+        "address": "14 Place de Chelsea",
+        "price": 3100000,
+        "date": "2024-02",
+        "units": 1,
+        "quarter": "2024Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8980416843914,
+          45.41266307836906
+        ]
+      },
+      "properties": {
+        "address": "20026 Place Wilson",
+        "price": 3000000,
+        "date": "2024-03",
+        "units": 1,
+        "quarter": "2024Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59777433674513,
+          45.49237588734297
+        ]
+      },
+      "properties": {
+        "address": "3164 Le Boulevard",
+        "price": 9500000,
+        "date": "2024-04",
+        "units": 1,
+        "quarter": "2024Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60160465266898,
+          45.48801719930169
+        ]
+      },
+      "properties": {
+        "address": "540 Avenue Argyle",
+        "price": 7500000,
+        "date": "2024-05",
+        "units": 1,
+        "quarter": "2024Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60330004727635,
+          45.481199291580715
+        ]
+      },
+      "properties": {
+        "address": "465 Avenue Roslyn",
+        "price": 6860000,
+        "date": "2024-05",
+        "units": 1,
+        "quarter": "2024Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60906307903947,
+          45.512836838183375
+        ]
+      },
+      "properties": {
+        "address": "55 avenue Courcelette",
+        "price": 5900000,
+        "date": "2024-06",
+        "units": 1,
+        "quarter": "2024Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60195794074932,
+          45.511763606156286
+        ]
+      },
+      "properties": {
+        "address": "88 Avenue Duchastel",
+        "price": 5825000,
+        "date": "2024-04",
+        "units": 1,
+        "quarter": "2024Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6504051294474,
+          45.50903882112125
+        ]
+      },
+      "properties": {
+        "address": "400 Avenue Lazard",
+        "price": 5100000,
+        "date": "2024-05",
+        "units": 1,
+        "quarter": "2024Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.72229980585251,
+          45.50867753062558
+        ]
+      },
+      "properties": {
+        "address": "4125 Rue Robert Choquette",
+        "price": 4600000,
+        "date": "2024-04",
+        "units": 1,
+        "quarter": "2024Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61575900604477,
+          45.51388300469555
+        ]
+      },
+      "properties": {
+        "address": "670 avenue Hartland",
+        "price": 4450000,
+        "date": "2024-05",
+        "units": 1,
+        "quarter": "2024Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5819818398883,
+          45.49805727091486
+        ]
+      },
+      "properties": {
+        "address": "11 Place Chelsea",
+        "price": 4448275,
+        "date": "2024-06",
+        "units": 1,
+        "quarter": "2024Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59706597416086,
+          45.48968582287854
+        ]
+      },
+      "properties": {
+        "address": "4302 avenue Montrose",
+        "price": 9000000,
+        "date": "2024-08",
+        "units": 1,
+        "quarter": "2024Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60085392449747,
+          45.490213610777545
+        ]
+      },
+      "properties": {
+        "address": "3243 The Boulevard",
+        "price": 8340000,
+        "date": "2024-07",
+        "units": 1,
+        "quarter": "2024Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.72856741393443,
+          45.50895921203362
+        ]
+      },
+      "properties": {
+        "address": "4325 rue Claude Henri Grignon",
+        "price": 8000000,
+        "date": "2024-07",
+        "units": 1,
+        "quarter": "2024Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5997201198522,
+          45.49300410674508
+        ]
+      },
+      "properties": {
+        "address": "1 chemin Malcom",
+        "price": 5990000,
+        "date": "2024-07",
+        "units": 1,
+        "quarter": "2024Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56101622310061,
+          45.499920441157904
+        ]
+      },
+      "properties": {
+        "address": "720 rue Saint Jacques # 5402",
+        "price": 5686858,
+        "date": "2024-07",
+        "units": 1,
+        "quarter": "2024Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60896218413181,
+          45.48866740577174
+        ]
+      },
+      "properties": {
+        "address": "56 avenue Sunnyside",
+        "price": 5500000,
+        "date": "2024-08",
+        "units": 1,
+        "quarter": "2024Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.77387851055455,
+          45.439587270834906
+        ]
+      },
+      "properties": {
+        "address": "10 Terrasse Whitehead",
+        "price": 5386064,
+        "date": "2024-07",
+        "units": 1,
+        "quarter": "2024Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6061603282744,
+          45.481885030182276
+        ]
+      },
+      "properties": {
+        "address": "540 Roslyn Ave",
+        "price": 4765000,
+        "date": "2024-07",
+        "units": 1,
+        "quarter": "2024Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60822274205442,
+          45.48338588666853
+        ]
+      },
+      "properties": {
+        "address": "579 avenue Roslyn",
+        "price": 4550000,
+        "date": "2024-08",
+        "units": 1,
+        "quarter": "2024Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56101622310061,
+          45.499920441157904
+        ]
+      },
+      "properties": {
+        "address": "720 rue Saint Jacques # 5301",
+        "price": 4549500,
+        "date": "2024-07",
+        "units": 1,
+        "quarter": "2024Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.577963626,
+          45.499850161
+        ]
+      },
+      "properties": {
+        "address": "1280 Sherbrooke Street West # PH",
+        "price": 18750000,
+        "date": "2024-11",
+        "units": 1,
+        "quarter": "2024Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.602012792,
+          45.491156718
+        ]
+      },
+      "properties": {
+        "address": "9 Place Braeside",
+        "price": 17000000,
+        "date": "2024-12",
+        "units": 1,
+        "quarter": "2024Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56101622310061,
+          45.499920441157904
+        ]
+      },
+      "properties": {
+        "address": "720 rue Saint Jacques # 5601",
+        "price": 7963191,
+        "date": "2024-10",
+        "units": 1,
+        "quarter": "2024Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59883987,
+          45.48801036
+        ]
+      },
+      "properties": {
+        "address": "4332 avenue Westmount",
+        "price": 7500000,
+        "date": "2024-10",
+        "units": 1,
+        "quarter": "2024Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.575901769,
+          45.497995537
+        ]
+      },
+      "properties": {
+        "address": "1430 rue de la Montagne # 1403",
+        "price": 6898500,
+        "date": "2024-12",
+        "units": 1,
+        "quarter": "2024Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.625656467,
+          45.512236292
+        ]
+      },
+      "properties": {
+        "address": "6300 Place Northcrest # PH D1",
+        "price": 5825000,
+        "date": "2024-11",
+        "units": 1,
+        "quarter": "2024Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.614440011,
+          45.492125631
+        ]
+      },
+      "properties": {
+        "address": "50 Avenue Oakland",
+        "price": 5400000,
+        "date": "2024-11",
+        "units": 1,
+        "quarter": "2024Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.604750789,
+          45.481227836
+        ]
+      },
+      "properties": {
+        "address": "482 avenue Roslyn",
+        "price": 5000000,
+        "date": "2024-12",
+        "units": 1,
+        "quarter": "2024Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60169142134261,
+          45.49349716505715
+        ]
+      },
+      "properties": {
+        "address": "55 Chemin Belvédère",
+        "price": 4980000,
+        "date": "2024-10",
+        "units": 1,
+        "quarter": "2024Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.608057585,
+          45.514210704
+        ]
+      },
+      "properties": {
+        "address": "8 avenue Pagnuelo",
+        "price": 4815000,
+        "date": "2024-11",
+        "units": 1,
+        "quarter": "2024Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.627026957,
+          45.581514249
+        ]
+      },
+      "properties": {
+        "address": "9350 boulevard Pie IX",
+        "price": 6012200,
+        "date": "2025-02",
+        "units": 1,
+        "quarter": "2025Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.644433045,
+          45.523283639
+        ]
+      },
+      "properties": {
+        "address": "1777 chemin Dumfries",
+        "price": 5749000,
+        "date": "2025-03",
+        "units": 1,
+        "quarter": "2025Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.614931464,
+          45.489563112
+        ]
+      },
+      "properties": {
+        "address": "76 Croissant Summit",
+        "price": 5100000,
+        "date": "2025-03",
+        "units": 1,
+        "quarter": "2025Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.653792851,
+          45.515526658
+        ]
+      },
+      "properties": {
+        "address": "2245 Sunset",
+        "price": 4500000,
+        "date": "2025-02",
+        "units": 1,
+        "quarter": "2025Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.561028139,
+          45.4999001
+        ]
+      },
+      "properties": {
+        "address": "720 rue Saint Jacques # 5501",
+        "price": 4440000,
+        "date": "2025-03",
+        "units": 1,
+        "quarter": "2025Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.603264238,
+          45.486874919
+        ]
+      },
+      "properties": {
+        "address": "59 avenue Forden",
+        "price": 4100000,
+        "date": "2025-01",
+        "units": 1,
+        "quarter": "2025Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.607758801,
+          45.513989103
+        ]
+      },
+      "properties": {
+        "address": "12 avenue Pagnuelo",
+        "price": 3950000,
+        "date": "2025-01",
+        "units": 1,
+        "quarter": "2025Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.600362897,
+          45.535132036
+        ]
+      },
+      "properties": {
+        "address": "6235 rue Saint Hubert",
+        "price": 3900000,
+        "date": "2025-01",
+        "units": 2,
+        "quarter": "2025Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.605369528,
+          45.482531977
+        ]
+      },
+      "properties": {
+        "address": "542 avenue Lansdowne",
+        "price": 3800000,
+        "date": "2025-02",
+        "units": 1,
+        "quarter": "2025Q1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.615848554,
+          45.490297709
+        ]
+      },
+      "properties": {
+        "address": "96 Croissant Summit",
+        "price": 6170000,
+        "date": "2025-06",
+        "units": 1,
+        "quarter": "2025Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.601746418,
+          45.490686143
+        ]
+      },
+      "properties": {
+        "address": "16 Place Braeside",
+        "price": 5375000,
+        "date": "2025-05",
+        "units": 1,
+        "quarter": "2025Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.594295334,
+          45.485042877
+        ]
+      },
+      "properties": {
+        "address": "351 avenue Redfern",
+        "price": 5075000,
+        "date": "2025-06",
+        "units": 1,
+        "quarter": "2025Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.608876743,
+          45.48791976
+        ]
+      },
+      "properties": {
+        "address": "32 chemin Edgehill",
+        "price": 4650000,
+        "date": "2025-05",
+        "units": 1,
+        "quarter": "2025Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.652473912,
+          45.513983173
+        ]
+      },
+      "properties": {
+        "address": "234 Chemin Strathcona",
+        "price": 4550000,
+        "date": "2025-04",
+        "units": 1,
+        "quarter": "2025Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.561028139,
+          45.4999001
+        ]
+      },
+      "properties": {
+        "address": "720 rue Saint Jacques # 5104",
+        "price": 4362640,
+        "date": "2025-05",
+        "units": 1,
+        "quarter": "2025Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.59342352,
+          45.51617669
+        ]
+      },
+      "properties": {
+        "address": "27 avenue McNider",
+        "price": 4281000,
+        "date": "2025-05",
+        "units": 1,
+        "quarter": "2025Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.657489869,
+          45.512672857
+        ]
+      },
+      "properties": {
+        "address": "389 avenue Devon",
+        "price": 4150000,
+        "date": "2025-05",
+        "units": 1,
+        "quarter": "2025Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.725970794,
+          45.508735624
+        ]
+      },
+      "properties": {
+        "address": "4240 rue Claude Henri Grignon",
+        "price": 4150000,
+        "date": "2025-04",
+        "units": 1,
+        "quarter": "2025Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.612934835,
+          45.489539249
+        ]
+      },
+      "properties": {
+        "address": "10 Avenue Roxborough",
+        "price": 4100000,
+        "date": "2025-06",
+        "units": 1,
+        "quarter": "2025Q2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.549195695,
+          45.525351197
+        ]
+      },
+      "properties": {
+        "address": "2125 rue Tansley",
+        "price": 28519114,
+        "date": "2025-09",
+        "units": 1,
+        "quarter": "2025Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.614028939,
+          45.491602084
+        ]
+      },
+      "properties": {
+        "address": "43 Surrey Gardens",
+        "price": 15000000,
+        "date": "2025-07",
+        "units": 1,
+        "quarter": "2025Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.601633063,
+          45.511659949
+        ]
+      },
+      "properties": {
+        "address": "80 Avenue Duchastel",
+        "price": 11500000,
+        "date": "2025-09",
+        "units": 1,
+        "quarter": "2025Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.542195429,
+          45.585185964
+        ]
+      },
+      "properties": {
+        "address": "6811 6825 rue Sherbrooke Est",
+        "price": 11000000,
+        "date": "2025-09",
+        "units": 2,
+        "quarter": "2025Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.605318777,
+          45.513598
+        ]
+      },
+      "properties": {
+        "address": "177 avenue Maplewood",
+        "price": 5800000,
+        "date": "2025-09",
+        "units": 1,
+        "quarter": "2025Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.577963626,
+          45.499850161
+        ]
+      },
+      "properties": {
+        "address": "1280 rue Sherbrooke Ouest # 820",
+        "price": 5450000,
+        "date": "2025-08",
+        "units": 1,
+        "quarter": "2025Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.607215991,
+          45.510995674
+        ]
+      },
+      "properties": {
+        "address": "1420 Boulevard Mont Royal # 763",
+        "price": 5000000,
+        "date": "2025-08",
+        "units": 1,
+        "quarter": "2025Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.613035877,
+          45.487705325
+        ]
+      },
+      "properties": {
+        "address": "740 avenue Lexington",
+        "price": 4870000,
+        "date": "2025-09",
+        "units": 1,
+        "quarter": "2025Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.616251445,
+          45.485145459
+        ]
+      },
+      "properties": {
+        "address": "119 Sunnyside Avenue",
+        "price": 3655000,
+        "date": "2025-07",
+        "units": 1,
+        "quarter": "2025Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.620840107,
+          45.53613723
+        ]
+      },
+      "properties": {
+        "address": "7397 7399 boulevard Saint Laurent",
+        "price": 3498000,
+        "date": "2025-07",
+        "units": 3,
+        "quarter": "2025Q3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.640273178,
+          45.480629623
+        ]
+      },
+      "properties": {
+        "address": "27 rue Granville",
+        "price": 4160500,
+        "date": "2025-10",
+        "units": 1,
+        "quarter": "2025Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.613412616,
+          45.492257897
+        ]
+      },
+      "properties": {
+        "address": "45 avenue Oakland",
+        "price": 2960000,
+        "date": "2025-10",
+        "units": 1,
+        "quarter": "2025Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.575883388,
+          45.501256432
+        ]
+      },
+      "properties": {
+        "address": "2060 rue Peel # PH3203",
+        "price": 2921905,
+        "date": "2025-10",
+        "units": 1,
+        "quarter": "2025Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.640507527,
+          45.479847459
+        ]
+      },
+      "properties": {
+        "address": "71 rue Stratford",
+        "price": 2595000,
+        "date": "2025-10",
+        "units": 1,
+        "quarter": "2025Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.648506067,
+          45.4862129
+        ]
+      },
+      "properties": {
+        "address": "185 rue Finchley",
+        "price": 2572000,
+        "date": "2025-10",
+        "units": 1,
+        "quarter": "2025Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.618251076,
+          45.518721988
+        ]
+      },
+      "properties": {
+        "address": "870 avenue McEachran",
+        "price": 2455000,
+        "date": "2025-10",
+        "units": 1,
+        "quarter": "2025Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.615910882,
+          45.485910735
+        ]
+      },
+      "properties": {
+        "address": "711 Grosvenor",
+        "price": 2450000,
+        "date": "2025-10",
+        "units": 1,
+        "quarter": "2025Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.621769091,
+          45.516193026
+        ]
+      },
+      "properties": {
+        "address": "905 avenue Dunlop",
+        "price": 2400000,
+        "date": "2025-10",
+        "units": 1,
+        "quarter": "2025Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.622735843,
+          45.516625426
+        ]
+      },
+      "properties": {
+        "address": "951 953 rue Dunlop",
+        "price": 2400000,
+        "date": "2025-11",
+        "units": 2,
+        "quarter": "2025Q4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.625773554,
+          45.474294569
+        ]
+      },
+      "properties": {
+        "address": "4374 4376 avenue Wilson",
+        "price": 2345000,
+        "date": "2025-10",
+        "units": 2,
+        "quarter": "2025Q4"
+      }
+    }
+  ]
+}
